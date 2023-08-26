@@ -1,0 +1,1 @@
+# SM-J100H_TWRP_device_tree
